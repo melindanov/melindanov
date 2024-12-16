@@ -13,16 +13,10 @@ I'm currently diving into:
 - **Korean**: Basic phrases and vocabulary
 - **Networking**: Wireshark, NMAP, Basics of Networks
 
-## 💞️ Collaboration
-I'm looking to collaborate on:
-- Web development projects
-- Design challenges
-- Language exchange
 
 ## 📫 How to Reach Me
 You can reach me via:
 - Email: stealthscribe@duck.com
-- instagram: [@koyakithefrog](https://www.instagram.com/koyakithefrog/profilecard/?igsh=MWJ3MHFpc2p5dDdncQ==)
 
 ## 😄 Pronouns
 My pronouns are they/she.
