@@ -9,8 +9,7 @@
 I'm currently diving into:
 - **Web Development**: HTML, CSS, JavaScript, PHP
 - **Design**: UI/UX principles
--  **Programming Languages**: Java, Phyton
-- **Korean**: Basic phrases and vocabulary
+-  **Programming Languages**: //
 - **Networking**: Wireshark, NMAP, Basics of Networks
 
 
@@ -32,5 +31,5 @@ console.log("I also love web development and design!");
 ## 🎨 My Projects
 Check out some of my projects:
 
-Have none public yet :(
+//
 
