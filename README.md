@@ -7,18 +7,17 @@ I'm a application-developer with a keen interest in programming and developing n
 
 ## 🌱 Currently Learning
 I'm currently diving into:
-- **Web Development**: HTML, CSS, JavaScript, PHP
+- **Web Development**: HTML, CSS, JavaScript
 - **Design**: UI/UX principles
--  **Programming Languages**: //
 - **Networking**: Wireshark, NMAP, Basics of Networks
 
 
 ## 📫 How to Reach Me
 You can reach me via:
-- Email: stealthscribe@duck.com
+- Fiverr
 
 ## 😄 Pronouns
-My pronouns are they/she.
+My pronouns are she/they.
 
 ## ⚡ Fun Fact
 Did you know that I love food? Nom Nom
@@ -32,4 +31,3 @@ console.log("I also love web development and design");
 Check out some of my projects:
 
 //
-
