@@ -3,14 +3,14 @@
 <img width="374" height="498" alt="image" src="https://github.com/user-attachments/assets/693f1532-cc49-4c2b-81a3-ce1893b84081" />
 
 ## About Me
-I'm a application-developer with a keen interest in programming and developing new things. I love exploring new technologies and sharing knowledge with others.
+I'm a application-developer and I'm gay.
 
 ## Currently Learning
-I'm currently diving into:
-- **Web Development**: HTML, CSS, JavaScript
+- Python
+- HTML, JS, PHP
 
 ## Pronouns
-My pronouns are she/they.
+she/they
 
 ## Fun Fact
 Did you know that I love food? Nom Nom
