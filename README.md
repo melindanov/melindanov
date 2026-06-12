@@ -1,6 +1,6 @@
 # Hi, I’m Novra
 
-![me as a cat]()
+![me as a cat](<img width="374" height="498" alt="image" src="https://github.com/user-attachments/assets/693f1532-cc49-4c2b-81a3-ce1893b84081" />)
 
 ## About Me
 I'm a application-developer with a keen interest in programming and developing new things. I love exploring new technologies and sharing knowledge with others.
