@@ -1,6 +1,6 @@
 # Hi, I’m Novra
 
-<img width="281" height="374" alt="image" src="https://github.com/user-attachments/assets/356e6bf5-b582-42ac-8fdc-a8799b5323ce" />
+<div class="tenor-gif-embed" data-postid="693344121160663519" data-share-method="host" data-aspect-ratio="0.751004" data-width="100%"><a href="https://tenor.com/view/aa-aaa-aah-scream-screaming-cat-gif-693344121160663519">Aa Aaa GIF</a>from <a href="https://tenor.com/search/aa-gifs">Aa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## About Me
 I'm a application-developer with a keen interest in programming and developing new things. I love exploring new technologies and sharing knowledge with others.
